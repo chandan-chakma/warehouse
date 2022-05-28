@@ -8,7 +8,7 @@ const Services = () => {
 
     return (
         <div className='container'>
-            <h1 className='text-primary fw-bold p-3'>Our services</h1>
+            <h1 className='text-primary fw-bold p-3'>Our Inventory</h1>
 
             <div className='services'>
                 {
