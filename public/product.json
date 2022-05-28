@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "1",
+        "name": "BAG MIU",
+        "price": "300",
+        "description": "one of the most famous bag. you can see the miu phot..",
+        "img": "https://i.ibb.co/8PbdbSb/p1.png",
+        "supplier": "LIu link"
+    },
+    {
+        "_id": "2",
+        "name": "T_SHIRT",
+        "price": "100",
+        "description": "Summer t_shirt i available now. its very comfortable and easy to wear.",
+        "img": "https://i.ibb.co/4gLFdhC/p2.png",
+        "supplier": "LIu link"
+    },
+    {
+        "_id": "3",
+        "name": "GUSHI BAG",
+        "price": "150",
+        "description": "gushi is a hand back where you can buy coking things and carry in the gushi. ",
+        "img": "https://i.ibb.co/9VJrCVF/p7.png",
+        "supplier": "LIu link"
+    },
+    {
+        "_id": "4",
+        "name": "Blue T_shirt",
+        "price": "180",
+        "description": "T-shirt color basically blue. Blue color gives you look like sky.",
+        "img": "https://i.ibb.co/8zVRc66/p5.png",
+        "supplier": "LIu link"
+    },
+    {
+        "_id": "5",
+        "name": "Easy",
+        "price": "100",
+        "description": "Summer t_shirt i available now. its very comfortable and easy to wear",
+        "img": "https://i.ibb.co/8zVRc66/p5.png",
+        "supplier": "LIu link"
+    },
+    {
+        "_id": "6",
+        "name": "POINT",
+        "price": "100",
+        "description": "Summer t_shirt i available now. its very comfortable and easy to wear.",
+        "img": "https://i.ibb.co/8zVRc66/p5.png",
+        "supplier": "LIu link"
+    },
+    {
+        "_id": "7",
+        "name": "Laven",
+        "price": "100",
+        "description": "gushi is a hand back where you can buy coking things and carry in the gushi.",
+        "img": "https://i.ibb.co/9VJrCVF/p7.png",
+        "supplier": "LIu link"
+    },
+    {
+        "_id": "8",
+        "name": "White T_shirt",
+        "price": "300",
+        "description": "Summer t_shirt i available now. its very comfortable and easy to wear.",
+        "img": "https://i.ibb.co/4gLFdhC/p2.png",
+        "supplier": "LIu link"
+    },
+    {
+        "_id": "9",
+        "name": "BAG MIU",
+        "price": "300",
+        "description": "one of the most famous bag. you can see the miu phot..",
+        "img": "https://i.ibb.co/8PbdbSb/p1.png",
+        "supplier": "LIu link"
+    }
+]
