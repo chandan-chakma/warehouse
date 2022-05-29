@@ -1,0 +1,11 @@
+.manage {
+    border: 1px solid rgba(252, 198, 209, 0.736);
+    padding: 8px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+.manage img {
+    width: 91px;
+}
