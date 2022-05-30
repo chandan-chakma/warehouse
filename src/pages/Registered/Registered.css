@@ -1,0 +1,4 @@
+.registered from input:not([type=checkbox]) {
+    display: block;
+
+}
