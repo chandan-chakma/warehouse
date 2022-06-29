@@ -15,6 +15,8 @@ const Inventories = () => {
             <div className='services'>
                 {
                     inventories.slice(0, 6).map(inventory => <Inventory
+                        key={inventory._id}
+
                         inventory={inventory}
                     >
 
